@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/papertronics
+  class: icon-github
+  title: "Code, life and everything"
+
+#- name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+- name: Twitter
+  url: http://twitter.com/papertronics
+  class: icon-twitter
+  title: "Come say hello on Twitter"
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
+
+- name: Facebook
+  url: http://www.facebook.com/papertronics
+  class: icon-facebook
+  title: "Stay up to date with our upcoming events"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

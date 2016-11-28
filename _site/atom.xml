@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://shannon.ulb.ac.be/paper/</id>
+	<title>Papertronics</title>
+	<updated>2016-11-28T17:50:36+01:00</updated>
+
+	<subtitle>»Papertronics« is an art duo blending paper, pigments and digital art.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Roman Miletitch</name>
+			
+			
+			
+				<uri>http://aporagen.com/</uri>
+			
+		</author>
+	
+
+	<link href="http://shannon.ulb.ac.be/paper/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://shannon.ulb.ac.be/paper/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
+
+	
+</feed>

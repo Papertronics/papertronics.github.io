@@ -1,61 +1,23 @@
-<!DOCTYPE HTML>
-<!--
-	Horizons by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
-<html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
-	</head>
-	<body>
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
+
+	{% include _masthead.html %}
 	{{ content }}
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container">
 
-						<div class="row">
-							<div class="4u">
-								<section>
-									<header class="major">
-										<h2>Contact</h2>
-										<span class="byline">We're nice people, give us an occasion to show it:</span>
-									</header>
-									<ul class="contact">
-										<li>
-											<span class="address">Twitter</span>
-											<span><a href="https://twitter.com/papertronics">twitter.com/papertronics</a></span>
-										</li>
-										<li>
-											<span class="mail">Mail</span>
-											<span><a href="mailto:info@papertronics.org">info@papertronics.org</a></span>
-										</li>
-									</ul>
-								</section>
-							</div>
-						</div>
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-					 
-						<div class="copyright">
-							Thanks <a href="http://templated.co">TEMPLATED</a> for the design! The rest is done by yours truely.
-						</div>
-
-				</div>
-			</div>
-
-	</body>
+	{% include _footer_scripts.html %}
+</body>
 </html>
