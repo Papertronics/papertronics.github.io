@@ -28,7 +28,7 @@ permalink: "/project/last-okonomiyaki-island/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-    <img class="inrow" src="{{ site.urlimg }}loi_2.jpg" alt="">
+    <img class="inrow" src="{{ site.urlimg }}loi_14.gif" alt="">
     </div>
 </div><!-- /.row -->
 
