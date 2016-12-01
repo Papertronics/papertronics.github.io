@@ -56,7 +56,7 @@ The canvas can be a wall, a chalkboard, a thin waffle... and the drawing can be 
 <div class="row">
     
     <div class="medium-8 columns t30">
-    <h3>The library</h3>
+    <h3>The library, PTX system</h3>
 The library is an ever growing bite of code which holds both the core mechanism (description of drawing) as well as a template to help calibrate the system. This templates is a graphical interface that allows you to calibrate your picture (both on the exposure/colour and on the optical correction side), specify the colours of interest and helps you debug any issue along the way. The templates is also a very good starting point for your own project since all the little things are already taken care of for you.
 <br>
 <br>
