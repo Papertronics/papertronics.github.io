@@ -20,7 +20,9 @@ permalink: "/project/space-wall/"
     Shhhh go no further! This is work in progress...
     
     <br>
-    We are currently working on a space exploration game where you draw your own planet. Not just on your table, but on a whole wall, collaborating with people in real time. Felt pen, spray can, your cloths... so many ways to define new planets! Then it's time to show your skills as a pilot! Take your smart-phone, join the game and ... don't crash! Now it's time to join a team or go solo, explore or shoot everything (and everyone!). Space is coming to you, prepare for take off. Thanks to the PTX System, both playing and drawing is possible at once, no need to pick a side!
+    We are currently working Space Wall, a space exploration local game where you draw your own planets. Not just on your table but on a whole wall, collaborating with people in real time. Felt pen, spray can, your cloths... so many ways to define new planets!
+    <br>
+Then it's time to show your skills as a pilot! Take your smart-phone, join the game and ... don't crash! Join a team or go solo, explore or shoot everything (and everyone!), the choice is yours. Space is coming to you, prepare for take off. Thanks to the PTX System, both playing and drawing is possible at once, no need to pick a side!
     
     </div><!-- /.medium-4.columns -->
 
