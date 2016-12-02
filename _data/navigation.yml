@@ -16,6 +16,8 @@
     url: "/project/micro-game-factory"
   - title: "The Last Okonomiyaki Island"
     url: "/project/last-okonomiyaki-island"
+  - title: "Space Wall"
+    url: "/project/space-wall"
 
 - title: Services
   url: "/services/"
